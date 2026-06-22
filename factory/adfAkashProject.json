@@ -1,0 +1,15 @@
+{
+	"name": "adfAkashProject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f5019c5d-a3e6-4b16-bd81-0e385c1aa32a",
+		"tenantId": "a06da2a3-050a-427a-a500-f26c341ebc33"
+	}
+}
